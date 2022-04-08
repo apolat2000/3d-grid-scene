@@ -1,0 +1,12 @@
+body {
+  background-color: #000;
+  overflow: hidden;
+  margin: 0;
+  font-family: system-ui;
+}
+
+#select-wrapper {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
